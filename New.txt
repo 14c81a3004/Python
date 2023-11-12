@@ -1,0 +1,41 @@
+Python
+> High leval lang
+> Scripting and OOPS
+> Automation
+> Built on C
+
+Data Types:
+	>Int
+	>Str
+	>Float
+	>Boolean
+	>Complex
+
+variables : Used to store data in the forms of data types
+			> In python no need to declare the variables
+			> We can just assign the value in the form of data-types
+			> Re-usabilty
+
+Functionality's: 
+			> User based > Devoloped by devolopers
+			> Standerd   > Devoloped by python devolopers > These are stored in cache
+			Ex: Import sys
+
+Data Processing : performing operations by using operators on top of data is called as data processing
+				> we can done the data processing or oprations by using operators
+
+Operators : operators are 8 types
+			1. Arthematic (+,-,*,/)
+			2. Relational (<,>,<=,==,!=) *always result must be boolean * Used for comparision
+			3. Logical    (and, not, or) *Used for combinations
+			4. Bitwise
+			5. Assignment
+			6. Membership
+			7. Identity
+			8. Ternary
+
+Interpretaion: conversion of high leval lang to low leval is called interpretation
+
+
+
+
